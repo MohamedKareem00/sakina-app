@@ -21,8 +21,8 @@
 <p align="center">
   <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/travel.png?raw=true" width="200" alt="دعاء السفر">
   <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/home_entrance.png?raw=true" width="200" alt="أذكار المنزل">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
 </p>
 
 ## 🛠 الأدوات المستخدمة (Tech Stack)
