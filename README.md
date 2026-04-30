@@ -38,6 +38,9 @@
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/tasbeeh.png" width="200"/>
 </p>
 
+## 📥 Download APK
+👉 [Download Sakina App](https://github.com/MohamedKareem00/sakina-app/releases)
+
 🛠 التقنيات المستخدمة (Tech Stack)
 
 - Flutter
