@@ -1,38 +1,65 @@
-# سكينة - Sakina App 🌙
+🌙 سكينة - Sakina App
 
-تطبيق إسلامي شامل للأذكار اليومية مبني باستخدام **Flutter**، يتميز بواجهة مستخدم هادئة وألوان مريحة للعين لمساعدة المستخدم على ذكر الله في كل وقت.
+تطبيق إسلامي بسيط وهادئ للأذكار اليومية مبني باستخدام Flutter، يساعدك على ذكر الله في أي وقت من خلال واجهة مريحة وسهلة الاستخدام.
 
-## ✨ المميزات (Features)
-- 🕋 **أذكار متنوعة:** تشمل أذكار الصباح والمساء، أذكار الصلاة، أذكار النوم، ودعاء السفر.
-- 🏠 **أدعية المنزل:** أذكار الدخول والخروج من المنزل منسقة بوضوح.
-- 📿 **المسبحة الإلكترونية:** عداد بسيط وفعال للتسبيح مع ميزة إعادة الضبط.
-- 📖 **دعاء ختم القرآن:** نص كامل ومنسق لدعاء الختم.
-- 🎨 **تصميم عصري:** واجهات مستخدم شفافة (Frosted Glass Effect) تضمن سهولة القراءة.
+---
 
-## 📸 لقطات من التطبيق (Screenshots)
+✨ المميزات (Features)
+
+- 🕋 أذكار الصباح والمساء
+- 🤲 أذكار الصلاة
+- 🌙 أذكار النوم
+- ✈️ دعاء السفر
+- 🏠 أذكار المنزل
+- 📿 مسبحة إلكترونية (عداد تسبيح)
+- 📖 دعاء ختم القرآن
+- 🎨 تصميم عصري (Frosted Glass UI)
+
+---
+
+📸 لقطات من التطبيق
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/home.png?raw=true" width="200" alt="الشاشة الرئيسية">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/azkar_morning.png?raw=true" width="200" alt="أذكار الصباح">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/sleep.png?raw=true" width="200" alt="أذكار النوم">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/tasbeeh.png?raw=true" width="200" alt="المسبحة">
-</p>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/home.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/azkar_morning.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/sleep.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/tasbeeh.png" width="200"/>
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/travel.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/home_entrance.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/quran_finish.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/azkar_prayer.png" width="200"/>
+</p>---
 
-<p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/travel.png?raw=true" width="200" alt="دعاء السفر">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/home_entrance.png?raw=true" width="200" alt="أذكار المنزل">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/master/screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
-</p>
+🛠 التقنيات المستخدمة (Tech Stack)
 
-## 🛠 الأدوات المستخدمة (Tech Stack)
-- **Flutter & Dart**
-- **Material Design 3**
+- Flutter
+- Dart
+- Material Design 3
 
-## 📦 كيفية التشغيل (How to run)
-تأكد من تثبيت بيئة عمل Flutter، ثم قم بتشغيل الأوامر التالية:
-```bash
-git clone [https://github.com/MohamedKareem00/sakina-app.git](https://github.com/MohamedKareem00/sakina-app.git)
+---
+
+📦 تشغيل المشروع (How to Run)
+
+git clone https://github.com/MohamedKareem00/sakina-app.git
 cd sakina-app
 flutter pub get
 flutter run
+
+---
+
+🤝 المساهمة (Contributing)
+
+لو حابب تطور التطبيق أو تضيف ميزة جديدة:
+
+1. اعمل Fork
+2. اعمل Branch جديد
+3. ابعت Pull Request
+
+---
+
+📄 الترخيص (License)
+
+هذا المشروع مفتوح المصدر للاستخدام والتطوير ❤️
+
+---
