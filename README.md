@@ -1,17 +1,38 @@
-# my_app
+# سكينة - Sakina App 🌙
 
-A new Flutter project.
+تطبيق إسلامي شامل للأذكار اليومية مبني باستخدام **Flutter**، يتميز بواجهة مستخدم هادئة وألوان مريحة للعين لمساعدة المستخدم على ذكر الله في كل وقت.
 
-## Getting Started
+## 🚀 استعراض التطبيق (Demo)
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/demo.gif?raw=true" width="250" alt="Sakina App Demo">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ المميزات (Features)
+- 🕋 **أذكار متنوعة:** تشمل أذكار الصباح والمساء، أذكار الصلاة، أذكار النوم، ودعاء السفر.
+- 🏠 **أدعية المنزل:** أذكار الدخول والخروج من المنزل منسقة بوضوح.
+- 📿 **المسبحة الإلكترونية:** عداد بسيط وفعال للتسبيح مع ميزة إعادة الضبط.
+- 📖 **دعاء ختم القرآن:** نص كامل ومنسق لدعاء الختم.
+- 🎨 **تصميم عصري:** واجهات مستخدم شفافة (Frosted Glass Effect) تضمن سهولة القراءة.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 لقطات من التطبيق (Screenshots)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/home.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/azkar_morning.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/sleep.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/tasbeeh.png?raw=true" width="200">
+</p>
+
+## 🛠 الأدوات المستخدمة (Tech Stack)
+- **Flutter:** للإطار العمل الأساسي.
+- **Dart:** لغة البرمجة.
+- **Material Design 3:** لتصميم العناصر المرئية.
+
+## 📦 كيفية التشغيل (How to run)
+تأكد من تثبيت بيئة عمل Flutter، ثم قم بتشغيل الأوامر التالية:
+```bash
+git clone [https://github.com/MohamedKareem00/sakina-app.git](https://github.com/MohamedKareem00/sakina-app.git)
+cd sakina-app
+flutter pub get
+flutter run
