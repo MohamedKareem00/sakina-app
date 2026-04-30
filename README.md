@@ -16,6 +16,11 @@
 - 🎨 تصميم عصري (Frosted Glass UI)
 
 ---
+## 🎥 Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/demo.gif" width="300"/>
+</p>
 
 📸 لقطات من التطبيق
 
