@@ -5,7 +5,7 @@
 ## 🚀 استعراض التطبيق (Demo)
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/demo.gif?raw=true" width="250" alt="Sakina App Demo">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/demo.gif?raw=true" width="250" alt="Sakina App Demo">
 </p>
 
 ## ✨ المميزات (Features)
