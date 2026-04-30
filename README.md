@@ -18,10 +18,17 @@
 ## 📸 لقطات من التطبيق (Screenshots)
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f20c42.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f20be1.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f2087c.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f2047a.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/home.png?raw=true" width="200" alt="الشاشة الرئيسية">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_morning.png?raw=true" width="200" alt="أذكار الصباح">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/sleep.png?raw=true" width="200" alt="أذكار النوم">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/tasbeeh.png?raw=true" width="200" alt="المسبحة">
+</p>
+
+<p align="center">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/travel.png?raw=true" width="200" alt="دعاء السفر">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/home_entrance.png?raw=true" width="200" alt="أذكار المنزل">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
 </p>
 
 ## 🛠 الأدوات المستخدمة (Tech Stack)
