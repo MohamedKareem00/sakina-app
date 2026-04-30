@@ -27,14 +27,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/home.png" width="200"/>
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/azkar_morning.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/azkar_prayer.png" width="200"/>
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/sleep.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/tasbeeh.png" width="200"/>
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/travel.png" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/home_entrance.png" width="200"/>
   <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/quran_finish.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/azkar_prayer.png" width="200"/>
-</p>---
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/travel.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MohamedKareem00/sakina-app/master/Screenshots/tasbeeh.png" width="200"/>
+</p>
 
 🛠 التقنيات المستخدمة (Tech Stack)
 
