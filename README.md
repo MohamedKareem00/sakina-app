@@ -2,12 +2,6 @@
 
 تطبيق إسلامي شامل للأذكار اليومية مبني باستخدام **Flutter**، يتميز بواجهة مستخدم هادئة وألوان مريحة للعين لمساعدة المستخدم على ذكر الله في كل وقت.
 
-## 🚀 استعراض التطبيق (Demo)
-
-<p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/demo.gif?raw=true" width="250" alt="Sakina App Demo">
-</p>
-
 ## ✨ المميزات (Features)
 - 🕋 **أذكار متنوعة:** تشمل أذكار الصباح والمساء، أذكار الصلاة، أذكار النوم، ودعاء السفر.
 - 🏠 **أدعية المنزل:** أذكار الدخول والخروج من المنزل منسقة بوضوح.
@@ -18,17 +12,17 @@
 ## 📸 لقطات من التطبيق (Screenshots)
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/home.png?raw=true" width="200" alt="الشاشة الرئيسية">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_morning.png?raw=true" width="200" alt="أذكار الصباح">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/sleep.png?raw=true" width="200" alt="أذكار النوم">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/tasbeeh.png?raw=true" width="200" alt="المسبحة">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/home.png?raw=true" width="200" alt="الشاشة الرئيسية">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/azkar_morning.png?raw=true" width="200" alt="أذكار الصباح">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/sleep.png?raw=true" width="200" alt="أذكار النوم">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/tasbeeh.png?raw=true" width="200" alt="المسبحة">
 </p>
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/travel.png?raw=true" width="200" alt="دعاء السفر">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/home_entrance.png?raw=true" width="200" alt="أذكار المنزل">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/travel.png?raw=true" width="200" alt="دعاء السفر">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/home_entrance.png?raw=true" width="200" alt="أذكار المنزل">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/quran_finish.png?raw=true" width="200" alt="ختم القرآن">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/screenshots/azkar_prayer.png?raw=true" width="200" alt="أذكار الصلاة">
 </p>
 
 ## 🛠 الأدوات المستخدمة (Tech Stack)
