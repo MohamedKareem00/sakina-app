@@ -18,10 +18,10 @@
 ## 📸 لقطات من التطبيق (Screenshots)
 
 <p align="center">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/home.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/azkar_morning.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/sleep.png?raw=true" width="200">
-  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/tasbeeh.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f20c42.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f20be1.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f2087c.png?raw=true" width="200">
+  <img src="https://github.com/MohamedKareem00/sakina-app/blob/main/Screenshots/image_f2047a.png?raw=true" width="200">
 </p>
 
 ## 🛠 الأدوات المستخدمة (Tech Stack)
