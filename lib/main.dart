@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'splash_screen.dart';
+
 import 'travel_dua_screen.dart';
 import 'prayer_azkar_page.dart';
 import 'sleepazkar.dart';
@@ -6,6 +8,7 @@ import 'sebha.dart';
 import 'dua_khatm_quran.dart';
 import 'morningeveningazkar.dart';
 import 'exithomedua.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -17,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomeScreen(),
+      home: SplashScreen(),
     );
   }
 }
@@ -29,30 +32,24 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: const Color(0xFFA7BBC7),
-
       appBar: AppBar(
         backgroundColor: const Color(0xFF2B5D7E),
         centerTitle: true,
         title: const Text(
           "سَكِينة",
-          style: TextStyle(
-            color: Colors.white,
-            fontWeight: FontWeight.bold,
-          ),
+          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
         ),
       ),
-
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
             const SizedBox(height: 10),
-
             buildExpandedButton("أذكار الصباح والمساء", Icons.wb_sunny, () {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                builder: (context) => const MorningEveningAzkarpage(),         
+                  builder: (context) => const MorningEveningAzkarpage(),
                 ),
               );
             }),
@@ -60,55 +57,49 @@ class HomeScreen extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                builder: (context) => const PrayerAzkarPage(),         
+                  builder: (context) => const PrayerAzkarPage(),
                 ),
               );
             }),
             buildExpandedButton("أذكار النوم", Icons.nightlight, () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const SleepAzkarPage()),
+              );
+            }),
+            buildExpandedButton(
+              "دعاء دخول المنزل والخروج منه",
+              Icons.house,
+              () {
                 Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => const SleepAzkarPage(),
-                ),
-              );
-            }),
-            buildExpandedButton("دعاء دخول المنزل والخروج منه", Icons.house, () {
-                  Navigator.push(
-                context,
-                MaterialPageRoute(
-                builder: (context) => const ExitHomeDuaPage(),         
-                ),
-              );
-            }),
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const ExitHomeDuaPage(),
+                  ),
+                );
+              },
+            ),
             buildExpandedButton("دعاء ختم القرآن", Icons.menu_book, () {
-                  Navigator.push(
+              Navigator.push(
                 context,
-                MaterialPageRoute(
-                builder: (context) => const DuaKhatmQuran(),         
-                ),
+                MaterialPageRoute(builder: (context) => const DuaKhatmQuran()),
               );
             }),
             buildExpandedButton("دعاء السفر", Icons.flight, () {
               Navigator.push(
                 context,
-                MaterialPageRoute(
-                  builder: (context) => const TravelDuaPage(),
-                ),
+                MaterialPageRoute(builder: (context) => const TravelDuaPage()),
               );
             }),
             buildExpandedButton("المسبحة", Icons.fingerprint, () {
-                Navigator.push(
+              Navigator.push(
                 context,
-                MaterialPageRoute(
-                  builder: (context) => const SebhaPage(),
-                ),
+                MaterialPageRoute(builder: (context) => const SebhaPage()),
               );
             }),
-
             const SizedBox(height: 10),
-
             const Text(
-              "﴿ فَاذْكُرُونِي أَذْكُرْكُمْ ﴾",
+              "﴾ فَاذْكُرُونِي أَذْكُرْكُمْ ﴿",
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.white,
@@ -122,7 +113,11 @@ class HomeScreen extends StatelessWidget {
     );
   }
 
-  Widget buildExpandedButton(String text, IconData icon, VoidCallback onPressed) {
+  Widget buildExpandedButton(
+    String text,
+    IconData icon,
+    VoidCallback onPressed,
+  ) {
     return Expanded(
       child: Container(
         margin: const EdgeInsets.only(bottom: 10),
@@ -141,10 +136,7 @@ class HomeScreen extends StatelessWidget {
               const SizedBox(width: 10),
               Text(
                 text,
-                style: const TextStyle(
-                  color: Colors.black,
-                  fontSize: 15,
-                ),
+                style: const TextStyle(color: Colors.black, fontSize: 15),
               ),
             ],
           ),

@@ -50,13 +50,14 @@ class _SebhaPageState extends State<SebhaPage> {
   title: const Text(
     "المسبحة",
     style: TextStyle(
+      color: Colors.white,
       fontFamily: 'Tajawal',
       fontWeight: FontWeight.bold,
     ),
   ),
 
   leading: IconButton(
-    icon: const Icon(Icons.arrow_back),
+    icon: const Icon(Icons.arrow_back, color: Colors.white),
     onPressed: () {
       Navigator.pop(context);
     },
@@ -66,7 +67,7 @@ class _SebhaPageState extends State<SebhaPage> {
     Builder(
       builder: (context) {
         return IconButton(
-          icon: const Icon(Icons.menu),
+          icon: const Icon(Icons.menu, color: Colors.white),
           onPressed: () {
             Scaffold.of(context).openDrawer();
           },
@@ -81,7 +82,7 @@ class _SebhaPageState extends State<SebhaPage> {
         child: ListView(
           children: [
             const DrawerHeader(
-              child: Text("اختار الذكر"),
+              child: Text("اختار الذكر",),
             ),
             ...azkar.map((zekr) {
               return ListTile(

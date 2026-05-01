@@ -26,6 +26,7 @@ class PrayerAzkarPage extends StatelessWidget {
                 color: Colors.white,
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
+                fontFamily: 'Tajawal',
               ),
             ),
           ],
@@ -85,7 +86,7 @@ class PrayerAzkarPage extends StatelessWidget {
       margin: const EdgeInsets.only(bottom: 15),
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: 0.8),
+        color: Colors.white.withValues(alpha: 0.3),
         borderRadius: BorderRadius.circular(15),
       ),
       child: Text(
